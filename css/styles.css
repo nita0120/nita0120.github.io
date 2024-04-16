@@ -1,0 +1,59 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+body{
+    font-family: 'Noto sans TC',sans-serif;
+}
+
+p.redred{
+    background-color: black;
+    color: white;
+    border: 10px solid;
+    border-color: brown;
+    background-image: url(../assets/img/IMG_3455.jpeg);
+    font-size: 40px;
+    text-align: center;
+
+}
+    
+
+.blueblue{
+    color:#326cad ;
+}
+
+.expedu_icon{
+    color: blue;
+}
+
+.expedu_icon:hover{
+    background-color: blue;
+    color: white
+}
+
+table {
+    width: 80%;
+    }
+
+    th{
+        text-align: center;
+        }
+        td {
+        text-align: justify;
+        }  
+
+        tr:nth-child(even) {
+            background-color: yellow;
+            }
+            tr:nth-child(odd) {
+            background-color: pink ;
+            }
+
+            td {
+                border:1px solid #2a5d44;
+                }
+
+                table {
+                    border-collapse: separate;
+                    } 
