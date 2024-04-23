@@ -49,10 +49,10 @@ table {
         }  
 
         tr:nth-child(even) {
-            background-color: yellow;
+            background-color:antiquewhite;
             }
             tr:nth-child(odd) {
-            background-color: pink ;
+            background-color: paleturquoise ;
             }
 
             td {
